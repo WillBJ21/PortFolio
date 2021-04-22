@@ -100,7 +100,7 @@ body {
   font-size: 200%;
   transition: 0.3s;
   text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
-  background-image: url('');
+  background-image: url('../img/PERSONNEL.PNG');
 }
 
 
